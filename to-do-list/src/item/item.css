@@ -1,0 +1,50 @@
+.box{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:6px;
+    gap:12px;
+
+}
+
+.mess > input{
+    font-size:medium;
+
+    outline:none;
+    padding: 8px 12px;
+    border:2px solid #000;
+    border-radius:8px;
+
+}
+
+.btn-holder{
+    display:flex;
+    justify-content:start;
+    gap:5px;
+    flex-wrap:wrap;
+}
+
+.style-btn{
+    cursor:pointer;
+    padding: 3px 6px; 
+    border-radius:9999px;
+    border:2px solid #000;
+    background:#fff;
+    font-size:large;
+    color:#fff;
+    min-width:120px;
+    min-height:40px;
+
+}
+
+.bg-green{
+    background:lightgreen;
+}
+
+.bg-red{
+    background:red;
+}
+
+.bg-grey{
+    background:grey;
+}

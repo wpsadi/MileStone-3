@@ -1,0 +1,12 @@
+.nav-wrap{
+    padding: 6px 0px;
+    padding-left:12px;
+    color:#fff;
+    background-color:#696969;
+}
+
+.nav-heading{
+    font-style:Underline;
+    font-weight:semibold;
+    font-size:larger
+}
